@@ -19,8 +19,6 @@ namespace explorer
         public DirectoryInfo _dr;
 
 
-
-
         public string s_text;
 
         public int all_files = 0;
