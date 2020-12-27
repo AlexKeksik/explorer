@@ -17,7 +17,7 @@ namespace explorer
         public ListBox lb_path;
         public Label l_time;
         public DirectoryInfo _dr;
-        public int c;
+
 
 
 
